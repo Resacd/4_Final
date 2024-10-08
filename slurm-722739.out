@@ -1,0 +1,165 @@
+/usr/bin/id: cannot find name for user ID 2344
+#**********************************************************************************************#
+Author: Reza Bozorgpour, PhD Student
+Biomedical Engineering Group, University of Wisconsin-Milwaukee
+Original Code: Developed from scratch with no prior code provided
+Programmer Contact Information:
+  - Mobile: 414-317-6043
+  - Email: bozorgp2@uwm.edu
+Date: 2022-10-14
+For any modifications to the software, developers are strongly advised to contact the owner.
+#**********************************************************************************************#
+#Copyright (c) 2022 by Mahsa Dabagh
+#All rights reserved
+#
+# Redistribution and use in source and binary forms, with or without modification, are
+# permitted provided that the following conditions are met: 
+#
+# 1. Redistributions of source code must retain the above copyright notice, this list of
+#    conditions and the following disclaimer.
+#
+# 2. Redistributions in binary form must reproduce the above copyright notice, this list of 
+#    conditions and the following disclaimer in the documentation and/or other materials
+#    provided with the distribution. 
+#
+# THIS CODE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS AS IS
+# AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+# IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR
+# PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT HOLDER OR
+# CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL,
+# EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO,
+# PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR
+# PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY
+# OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING
+# NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
+# SOFTWARE,  EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+#**********************************************************************************************#
+Elapsed time:     0.65 secondsElapsed time:     0.75 secondsElapsed time:     0.85 secondsElapsed time:     0.95 secondsElapsed time:     1.05 secondsElapsed time:     1.15 secondsVTK file labeledPoints/labeled_points_12_Labeled.vtu.vtk written successfully.
+Elapsed time:     1.26 secondsVTK file labeledPoints/labeled_points_14_Labeled.vtu.vtk written successfully.
+Elapsed time:     1.36 secondsVTK file labeledPoints/labeled_points_13_Labeled.vtu.vtk written successfully.
+Elapsed time:     1.46 secondsVTK file labeledPoints/labeled_points_112_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_8_Labeled.vtu.vtk written successfully.
+Elapsed time:     1.56 secondsVTK file labeledPoints/labeled_points_114_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_96_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_10_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_113_Labeled.vtu.vtk written successfully.
+Elapsed time:     1.66 secondsVTK file labeledPoints/labeled_points_28_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_98_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_9_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_44_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_60_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_97_Labeled.vtu.vtk written successfully.
+Elapsed time:     1.76 secondsVTK file labeledPoints/labeled_points_30_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_29_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_46_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_62_Labeled.vtu.vtk written successfully.
+Elapsed time:     1.86 secondsVTK file labeledPoints/labeled_points_61_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_45_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_15_Labeled.vtu.vtk written successfully.
+Elapsed time:     1.97 secondsVTK file labeledPoints/labeled_points_66_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_80_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_82_Labeled.vtu.vtk written successfully.
+Elapsed time:     2.07 secondsVTK file labeledPoints/labeled_points_116_Labeled.vtu.vtk written successfully.
+Elapsed time:     2.17 secondsVTK file labeledPoints/labeled_points_81_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_50_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_11_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_64_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_76_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_115_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_99_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_65_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_118_Labeled.vtu.vtk written successfully.
+Elapsed time:     2.27 secondsVTK file labeledPoints/labeled_points_49_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_31_Labeled.vtu.vtk written successfully.
+Elapsed time:     2.37 secondsVTK file labeledPoints/labeled_points_47_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_63_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_77_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_117_Labeled.vtu.vtk written successfully.
+Elapsed time:     2.47 secondsVTK file labeledPoints/labeled_points_67_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_83_Labeled.vtu.vtk written successfully.
+Elapsed time:     2.57 secondsVTK file labeledPoints/labeled_points_120_Labeled.vtu.vtk written successfully.
+Elapsed time:     2.67 secondsVTK file labeledPoints/labeled_points_51_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_48_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_79_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_78_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_121_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_122_Labeled.vtu.vtk written successfully.
+Elapsed time:     2.77 secondsVTK file labeledPoints/labeled_points_119_Labeled.vtu.vtk written successfully.
+Elapsed time:     2.87 secondsVTK file labeledPoints/labeled_points_100_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_0_Labeled.vtu.vtk written successfully.
+Elapsed time:     3.00 secondsVTK file labeledPoints/labeled_points_2_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_1_Labeled.vtu.vtk written successfully.
+Elapsed time:     3.10 secondsVTK file labeledPoints/labeled_points_123_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_92_Labeled.vtu.vtk written successfully.
+Elapsed time:     3.20 secondsVTK file labeledPoints/labeled_points_24_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_88_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_93_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_103_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_26_Labeled.vtu.vtk written successfully.
+Elapsed time:     3.30 secondsVTK file labeledPoints/labeled_points_101_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_25_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_89_Labeled.vtu.vtk written successfully.
+Elapsed time:     3.40 secondsVTK file labeledPoints/labeled_points_102_Labeled.vtu.vtk written successfully.
+Elapsed time:     3.50 secondsVTK file labeledPoints/labeled_points_95_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_3_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_94_Labeled.vtu.vtk written successfully.
+Elapsed time:     3.60 secondsElapsed time:     3.70 secondsVTK file labeledPoints/labeled_points_27_Labeled.vtu.vtk written successfully.
+Elapsed time:     3.80 secondsVTK file labeledPoints/labeled_points_124_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_84_Labeled.vtu.vtk written successfully.
+Elapsed time:     3.90 secondsVTK file labeledPoints/labeled_points_104_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_125_Labeled.vtu.vtk written successfully.
+Elapsed time:     4.00 secondsVTK file labeledPoints/labeled_points_105_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_127_Labeled.vtu.vtk written successfully.
+Elapsed time:     4.11 secondsVTK file labeledPoints/labeled_points_87_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_107_Labeled.vtu.vtk written successfully.
+Elapsed time:     4.21 secondsVTK file labeledPoints/labeled_points_86_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_126_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_91_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_70_Labeled.vtu.vtk written successfully.
+Elapsed time:     4.31 secondsVTK file labeledPoints/labeled_points_73_Labeled.vtu.vtk written successfully.
+Elapsed time:     4.41 secondsVTK file labeledPoints/labeled_points_72_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_32_Labeled.vtu.vtk written successfully.
+Elapsed time:     4.51 secondsVTK file labeledPoints/labeled_points_34_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_33_Labeled.vtu.vtk written successfully.
+Elapsed time:     4.61 secondsElapsed time:     4.71 secondsVTK file labeledPoints/labeled_points_69_Labeled.vtu.vtk written successfully.
+Elapsed time:     4.81 secondsVTK file labeledPoints/labeled_points_71_Labeled.vtu.vtk written successfully.
+Elapsed time:     4.91 secondsVTK file labeledPoints/labeled_points_85_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_106_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_90_Labeled.vtu.vtk written successfully.
+Elapsed time:     5.02 secondsVTK file labeledPoints/labeled_points_35_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_68_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_4_Labeled.vtu.vtk written successfully.
+Elapsed time:     5.12 secondsVTK file labeledPoints/labeled_points_75_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_40_Labeled.vtu.vtk written successfully.
+Elapsed time:     5.22 secondsVTK file labeledPoints/labeled_points_42_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_5_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_41_Labeled.vtu.vtk written successfully.
+Elapsed time:     5.32 secondsVTK file labeledPoints/labeled_points_6_Labeled.vtu.vtk written successfully.
+Elapsed time:     5.42 secondsVTK file labeledPoints/labeled_points_7_Labeled.vtu.vtk written successfully.
+Elapsed time:     5.52 secondsVTK file labeledPoints/labeled_points_57_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_111_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_56_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_58_Labeled.vtu.vtk written successfully.
+Elapsed time:     5.62 secondsElapsed time:     5.72 secondsVTK file labeledPoints/labeled_points_59_Labeled.vtu.vtk written successfully.
+Elapsed time:     5.82 secondsVTK file labeledPoints/labeled_points_108_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_43_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_109_Labeled.vtu.vtk written successfully.
+Elapsed time:     5.92 secondsVTK file labeledPoints/labeled_points_53_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_54_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_16_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_74_Labeled.vtu.vtk written successfully.
+Elapsed time:     6.02 secondsVTK file labeledPoints/labeled_points_18_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_110_Labeled.vtu.vtk written successfully.
+Elapsed time:     6.13 secondsVTK file labeledPoints/labeled_points_17_Labeled.vtu.vtk written successfully.
+Elapsed time:     6.23 secondsElapsed time:     6.33 secondsElapsed time:     6.43 secondsElapsed time:     6.53 secondsVTK file labeledPoints/labeled_points_55_Labeled.vtu.vtk written successfully.
+Elapsed time:     6.63 secondsElapsed time:     6.73 secondsElapsed time:     6.83 secondsElapsed time:     6.93 secondsElapsed time:     7.03 secondsElapsed time:     7.14 secondsElapsed time:     7.24 secondsVTK file labeledPoints/labeled_points_19_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_20_Labeled.vtu.vtk written successfully.
+Elapsed time:     7.34 secondsVTK file labeledPoints/labeled_points_52_Labeled.vtu.vtk written successfully.
+VTK file labeledPoints/labeled_points_21_Labeled.vtu.vtk written successfully.
+Elapsed time:     7.44 secondsElapsed time:     7.54 secondsElapsed time:     7.64 secondsVTK file labeledPoints/labeled_points_22_Labeled.vtu.vtk written successfully.
+Elapsed time:     7.74 secondsElapsed time:     7.84 secondsElapsed time:     7.94 secondsElapsed time:     8.04 secondsElapsed time:     8.14 secondsElapsed time:     8.24 secondsElapsed time:     8.34 secondsElapsed time:     8.44 secondsElapsed time:     8.54 secondsElapsed time:     8.64 secondsVTK file labeledPoints/labeled_points_23_Labeled.vtu.vtk written successfully.
+Elapsed time:     8.74 secondsElapsed time:     8.84 secondsElapsed time:     8.94 secondsElapsed time:     9.04 secondsElapsed time:     9.14 secondsElapsed time:     9.24 secondsElapsed time:     9.34 secondsElapsed time:     9.44 secondsElapsed time:     9.54 secondsElapsed time:     9.64 secondsElapsed time:     9.74 secondsElapsed time:     9.84 secondsElapsed time:     9.94 secondsElapsed time:    10.04 secondsElapsed time:    10.14 secondsElapsed time:    10.24 secondsElapsed time:    10.34 secondsElapsed time:    10.44 secondsVTK file labeledPoints/labeled_points_36_Labeled.vtu.vtk written successfully.
+Elapsed time:    10.54 secondsVTK file labeledPoints/labeled_points_37_Labeled.vtu.vtk written successfully.
+Elapsed time:    10.64 secondsElapsed time:    10.74 secondsVTK file labeledPoints/labeled_points_38_Labeled.vtu.vtk written successfully.
+Elapsed time:    10.84 secondsElapsed time:    10.94 secondsVTK file labeledPoints/labeled_points_39_Labeled.vtu.vtk written successfully.
+Elapsed time:    11.04 secondsElapsed time:    11.14 secondsElapsed time:    11.24 secondsElapsed time:    11.34 secondsElapsed time:    11.44 secondsElapsed time:    11.54 secondsElapsed time:    11.64 secondsElapsed time:    11.74 secondsElapsed time:    11.84 secondsElapsed time:    11.91 seconds.
